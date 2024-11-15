@@ -11,9 +11,9 @@ This project aims to develop a predictive model using Support Vector Machines (S
 
 ## Installation
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/kiranshahzadii/diabetes-risk-prediction.git
-   ```
+```bash
+git clone https://github.com/kiranshahzadii/diabetes-risk-prediction.git
+```
 
 2. Navigate to the project directory:
 ```bash
